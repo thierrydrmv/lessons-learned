@@ -1,6 +1,7 @@
 /* stylelint-disable no-missing-end-of-source-newline */
 body {
   background-color: rgb(253, 251, 251);
+  width: 80vw;
 }
 
 header {
