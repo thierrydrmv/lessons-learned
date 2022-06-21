@@ -13,6 +13,6 @@ header {
   width: 300px;
 }
 
-article {
+article , aside {
   font-size: large;
 }
