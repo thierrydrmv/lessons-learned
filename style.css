@@ -17,3 +17,7 @@ header {
 article , aside {
   font-size: large;
 }
+
+table td {
+  text-align: center;
+}
