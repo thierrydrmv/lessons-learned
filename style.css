@@ -12,12 +12,15 @@ header {
 #minha_foto {
   border-radius: 50%;
   width: 300px;
+  margin-top: 50px;
+  padding: 30px;
 }
 
 article , aside {
   font-size: large;
 }
 
-table td {
+table td , th {
   text-align: center;
+  border: black solid 2px;
 }
