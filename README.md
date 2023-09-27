@@ -1,7 +1,7 @@
 # Trybe Project - Lessons Learned
 
 <h3 align="center">
-  <a href="https://github.com/thierrydrmv">Access the Project</a>
+  <a href="https://thierrydrmv.github.io/lessons-learned/">Access the Project</a>
 </h3>
 
 ## 📝 About
