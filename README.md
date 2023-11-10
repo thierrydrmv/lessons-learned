@@ -7,7 +7,7 @@
 ## 📝 About
 
 
-The project **Lessons Learned** is an html, css page where i executed the knowledge received at the first block of trybe.
+The project **Lessons Learned** is an html, css page where i executed the knowledge received at the first block of [Trybe](https://www.betrybe.com/).
 
 ---
 
@@ -24,6 +24,13 @@ The project **Lessons Learned** is an html, css page where i executed the knowle
   <a href = "mailto:varelathierry@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/varela-thierry" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 </div>
+
+## ⬇️ Installing dependencies
+
+
+  ```bash
+  npm install
+  ``` 
 
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
 [Javascript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
