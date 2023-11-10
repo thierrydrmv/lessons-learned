@@ -1,21 +1,24 @@
 # Trybe Project - Lessons Learned
 
-<h3 align="center">
-  <a href="https://thierrydrmv.github.io/lessons-learned/">Access the Project</a>
-</h3>
+  [Access the Project](https://thierrydrmv.github.io/lessons-learned/)
 
 ## 📝 About
 
 
 The project **Lessons Learned** is an html, css page where i executed the knowledge received at the first block of [Trybe](https://www.betrybe.com/).
 
----
 
 ## 🚀 Build With
 
-> [![Javascript][Javascript]][Javascript-url][![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url]
+[![Javascript][Javascript]][Javascript-url][![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url]
 
----
+## 📌 Skills developed
+
+In this project, I was able to:
+
+- Use HTML to build WEB pages.
+- Use semantic HTML to make your page more accessible and better ranked.
+- Use CSS to add style and position elements.
 
 ## 💬 Contact
 
