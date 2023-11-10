@@ -20,6 +20,14 @@ In this project, I was able to:
 - Use semantic HTML to make your page more accessible and better ranked.
 - Use CSS to add style and position elements.
 
+
+## ⬇️ Installing dependencies
+
+
+  ```bash
+  npm install
+  ```
+
 ## 💬 Contact
 
 <div>
@@ -27,13 +35,6 @@ In this project, I was able to:
   <a href = "mailto:varelathierry@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/varela-thierry" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 </div>
-
-## ⬇️ Installing dependencies
-
-
-  ```bash
-  npm install
-  ``` 
 
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
 [Javascript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
