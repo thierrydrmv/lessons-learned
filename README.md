@@ -8,7 +8,7 @@
 The project **Lessons Learned** is an html, css page where i executed the knowledge received at the first block of [Trybe](https://www.betrybe.com/).
 
 
-## 🚀 Build With
+## 🚀 Built With
 
 [![Javascript][Javascript]][Javascript-url][![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url]
 
